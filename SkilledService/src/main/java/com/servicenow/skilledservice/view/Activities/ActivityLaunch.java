@@ -24,6 +24,7 @@ import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 import skilledservice.servicenow.com.R;
 
+//Branch master
 public class ActivityLaunch extends BaseActivity {
     private NavigationView navigationView;
     private DrawerLayout drawerLayout;
