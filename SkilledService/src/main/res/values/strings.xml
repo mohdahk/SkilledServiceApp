@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SkilledService</string>
+    <string name="search_hint">Carpenters,Plumbers etc..</string>
+    <string name="name">Name</string>
+    <string name="specialization">Specialization</string>
+    <string name="rating">Ratings</string>
+    <string name="skill">Skill</string>
+    <string name="loading">Loading...</string>
+    <string name="requests_received">Requests Received</string>
+    <string name="send_requests">Send Requests</string>
+    <string name="request">Request</string>
+    <string name="requestWork">Request Work</string>
+    <string name="openDrawer">Open Drawer</string>
+    <string name="closeDrawer">Close Drawer</string>
+</resources>
